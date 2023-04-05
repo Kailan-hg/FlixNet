@@ -14,6 +14,10 @@ function App() {
         >
           Learn React
         </a>
+        <div class="logo-container">
+          <span class="logo-icon">N</span>
+          <h1 class="logo-text">etflix</h1>
+        </div>
       </header>
     </div>
   );

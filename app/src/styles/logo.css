@@ -1,0 +1,27 @@
+/* Estilos para el contenedor del logo */
+.logo-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    height: 100px;
+    background-color: transparent;
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+/* Estilos para el texto del logo */
+.logo-text {
+    font-size: 30px;
+    color: #e50914;
+    font-weight: bold;
+    margin: 0;
+    padding: 0 10px;
+    text-transform: uppercase;
+}
+
+/* Estilos para el ícono del logo */
+.logo-icon {
+    font-size: 40px;
+    color: #e50914;
+}
